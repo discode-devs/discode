@@ -3,3 +3,4 @@ build/discode
 obj/*
 .vscode/*
 build/commands/*
+*.tar

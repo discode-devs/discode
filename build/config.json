@@ -12,7 +12,7 @@
     "disable_modules": ["WEBSOCKETS", "USER_AGENT"]
   },
   "discord": {
-    "token": "ODIzMzExMDAxMTcxNjU2NzU0.YFe-Hw.qslT7vAgbxU_sZi4J5hqWQcld4A",
+    "token": "",
     "default_prefix": {
       "enable": false,
       "prefix": "."

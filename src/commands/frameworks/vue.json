@@ -1,0 +1,29 @@
+{
+  "title": "Vue",
+  "description": "A progressive framework.",
+  "footer": {
+    "text": "Discode",
+    "icon_url": "https://raw.githubusercontent.com/discode-devs/discode/master/images/botatar.png"
+  },
+  "thumbnail": {
+    "url": "https://raw.githubusercontent.com/discode-devs/discode/master/images/frameworks/vue.png"
+  },
+  "fields": [
+    {
+      "name": "What is it?",
+      "value": "Vue is an open-source model-view-viewmodel front end JavaScript framework for buiilding user interfaces and single-page applications. It was created by Evan You and is maintained by him."
+    },
+    {
+      "name": "Advantages",
+      "value": "- Simplicity\n- Component Based\n- Reusability\n- High Performance\n- Cross-Platform\n- Virtual Dom"
+    },
+    {
+      "name": "Learn",
+      "value": "https://vuejs.org/tutorial/#step-1\nhttps://www.codecademy.com/learn/learn-vue-js"
+    },
+    {
+      "name": "Sources",
+      "value": "https://vuejs.org\nhttps://en.wikipedia.org/wiki/Vue.js\nhttps://www.monocubed.com/blog/advantages-of-vue-js/"
+    }
+  ]
+}

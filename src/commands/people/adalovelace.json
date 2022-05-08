@@ -1,0 +1,25 @@
+{
+  "title": "Ada Lovelace",
+  "description": "While not a language, still very very important to programming as a whole.",
+  "footer": {
+    "text": "Discode",
+    "icon_url": "https://raw.githubusercontent.com/discode-devs/discode/master/images/botatar.png"
+  },
+  "thumbnail": {
+    "url":"https://raw.githubusercontent.com/discode-devs/discode/master/images/people/adalovelace.jpg"
+  },
+  "fields": [
+    {
+      "name": "Who was she?",
+      "value": "Ada lovelace was born in 1815. As an adult she worked under Charles Babbage. She worked on his Analytical Machine. The machine was kind of like the world's first computer. She figured out how to execute things on it. These basics became the base of how all languages work at their very core." 
+    },
+    {
+      "name": "Life and Death",
+      "value": "Born: London, England, December 10, 1815\nDied: London England, November 27, 1852"
+    },
+    {
+      "name": "Sources",
+      "value": "https://en.wikipedia.org/wiki/Ada_Lovelace\nhttps://www.sdsc.edu/ScienceWomen/lovelace.html"
+    }
+  ]
+}

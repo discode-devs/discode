@@ -1,0 +1,33 @@
+{
+  "title": "Assembly",
+  "description": "Super, duper old.",
+  "footer": {
+    "text": "Discode",
+    "icon_url": "https://raw.githubusercontent.com/discode-devs/discode/master/images/botatar.png"
+  },
+  "thumbnail": {
+    "url": "https://raw.githubusercontent.com/discode-devs/discode/master/images/langs/asm.png"
+  },
+  "fields": [
+    {
+      "name": "What is it?",
+      "value": "Assembly Language, sometimes abbreviated as asm is any low-level programming language in which there is a very strong correspondence between the machine language instructions and the assembly language instructions. The first assembly language was created in 1947 by Kathleen Booth."
+    },
+    {
+      "name": "Advantages",
+      "value": "- Faster in speed as it will be extremely optimized to use only necessary resources\n- Efficient use of memory\n- High level of control\n- Access registers and memory in hardware\n- Don't need to rely on compilers to optimize the code\n- Assemmbler bugs are much easier to identify and fix compared to compiler bugs"
+    },
+    {
+      "name": "Code Example",
+      "value": "```x86asm\norg  0x100\n\nmov dx, msg\nmov ah, 9\nint 0x21\n\nmov ah, 0x4c\nint 0x21\nmsg db 'Hello, World!, 0x0d, 0x0a, '$'\n```\n*(x86assembly)*"
+    },
+    {
+      "name": "Learn",
+      "value": "https://www.tutorialspoint.com/assembly_programming/index.htm\nhttps://towardsdatascience.com/the-basics-of-writing-assembly-cf5f9e7989bc\nhttps://www.codecademy.com/learn/computer-architecture/modules/assembly-language"
+    },
+    {
+      "name": "Sources",
+      "value": "https://en.wikipedia.org/wiki/Assembly_language"
+    }
+  ]
+}

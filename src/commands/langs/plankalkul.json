@@ -1,0 +1,33 @@
+{
+  "title": "Plankalkul",
+  "description": "Super, duper old.",
+  "footer": {
+    "text": "Discode",
+    "icon_url": "https://raw.githubusercontent.com/discode-devs/discode/master/images/botatar.png"
+  },
+  "thumbnail": {
+    "url": "https://raw.githubusercontent.com/discode-devs/discode/master/images/langs/plankalkul.jpg"
+  },
+  "fields": [
+    {
+      "name": "What is it?",
+      "value": "Plankalkul was the first complete high-level language. It was designed in the 1940s, with the first concept being published in 1948. It was created by German Engineer, Konrad Zuse for his Z3 computer."
+    },
+    {
+      "name": "Advantages",
+      "value": "- Programs are reuseable functions\n- Variables are local to functions\n- The funamental data types are arrays and tuples of arrays but there are also floating point, fixed point, complex numbers; hierarchical data structures; list of pairs\n- The type of the variables does not need to be declared in special header\n- There is no GOTO construct\n- Assignment operation\n- Conditional statements\n- Possibly for defining sub-programs\n- Possibly for defining repition of statements, WHILE construct for iteration\n- Logical operations\n- Arithmetic exception handling"
+    },
+    {
+      "name": "Code Example",
+      "value": "```\nR1.1(V0[:sig]) => R0\nR1.2(V0[:m x sig]) => R0\n0 => i | m + 1 => j\n[W [ i < j -> [ R1.1(V0[i: m x sig]) => R0 | i + 1 ] ] ]\nEND\nR1.3() => R0\n'H';'e';'l';'l';'o';',';' ';'w';'o';'r';'l';'d';'!' => Z0[: m x sig] R1.2(Z0) => R0\nEND\n```"
+    },
+    {
+      "name": "Learn",
+      "value": "Yeah, good luck with that..."
+    },
+    {
+      "name": "Sources",
+      "value": "https://en.wikipedia.org/wiki/Plankalk%C3%BCl"
+    }
+  ]
+}

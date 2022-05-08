@@ -1,0 +1,29 @@
+{
+  "title": "React",
+  "description": "Epic JS library.",
+  "footer": {
+    "text": "Discode",
+    "icon_url": "https://raw.githubusercontent.com/discode-devs/discode/master/images/botatar.png"
+  },
+  "thumbnail": {
+    "url": "https://raw.githubusercontent.com/discode-devs/discode/master/images/frameworks/react.png"
+  },
+  "fields": [
+    {
+      "name": "What is it?",
+      "value": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components."
+    },
+    {
+      "name": "Advantages",
+      "value": "- Speed\n- Flexibility\n- Reusability\n- Testability\n- Performance\n- Ease of Migration\n- Easy to Learn\n- Strong Community"
+    },
+    {
+      "name": "Learn",
+      "value": "https://reactjs.org/tutorial/tutorial.html\nhttps://www.w3schools.com/react/default.asp\nhttps://react-tutorial.app/"
+    },
+    {
+      "name": "Sources",
+      "value": "https://www.ipraxa.com/blog/advantages-of-reactjs-reasons-to-use/"
+    }
+  ]
+}

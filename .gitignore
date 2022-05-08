@@ -1,0 +1,5 @@
+build/logs
+build/discode
+obj/*
+.vscode/*
+build/commands/*

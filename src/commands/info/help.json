@@ -1,0 +1,8 @@
+{
+  "title": "Help",
+  "description": "Frameworks: .framework/.f <your-choice-here>\nLangs: .lang/.l <your-choice-here>\nPeople: .person/.p <your-choice-here>",
+  "footer": {
+    "text": "Discode",
+    "icon_url": "https://raw.githubusercontent.com/discode-devs/discode/master/images/botatar.png"
+  }
+}

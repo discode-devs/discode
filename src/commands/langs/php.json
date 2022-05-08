@@ -1,0 +1,33 @@
+{
+  "title": "PHP",
+  "description": "Make websites go brrr, with added pain.",
+  "footer": {
+    "text": "Discode",
+    "icon_url": "https://raw.githubusercontent.com/discode-devs/discode/master/images/botatar.png"
+  },
+  "thumbnail": {
+    "url": "https://raw.githubusercontent.com/discode-devs/discode/master/images/langs/php.png"
+  },
+  "fields": [
+    {
+      "name": "What is it?",
+      "value": "PHP is a general-purpose scripting language that is geared towards web development. It was originally created by Rasmus Lerdorf in 1994."
+    },
+    {
+      "name": "Advantages",
+      "value": "- Platform independent\n- Simple and straightforward to use\n- Great for interactive web applications\n- Very stable\n- Very flexible"
+    },
+    {
+      "name": "Code Example",
+      "value": "```php\n<?php\necho \"Hello, World!\";\n?>```"
+    },
+    {
+      "name": "Learn",
+      "value": "https://www.codecademy.com/learn/learn-php\nhttps://www.w3schools.com/php/\nhttps://www.learn-php.org/\nhttps://www.sololearn.com/learning/1059"
+    },
+    {
+      "name": "Sources",
+      "value": "https://www.php.net/\nhttps://en.wikipedia.org/wiki/PHP\nhttps://www.geeksforgeeks.org/advantages-and-disadvantages-of-php/\nhttps://light-it.net/blog/why-use-php-main-advantages-and-disadvantages/"
+    }
+  ]
+}

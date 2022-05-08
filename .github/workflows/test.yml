@@ -1,0 +1,34 @@
+name: test build
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    
+jobs:
+  test-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: Dependencies
+        run: |
+          echo "Installing build-essential"
+          sudo apt-get install -y build-essential
+          echo "Installing gcc clang and libcurl"
+          sudo apt-get install -y libcurl4-openssl-dev clang gcc
+      - name: Install libs
+        run: |
+          echo "Cloning Concord"
+          git clone https://github.com/Cogmasters/concord.git
+          echo "Building Concord"
+          cd concord
+          make
+          sudo make install
+          echo "Cleaning up"
+          cd ..
+          sudo rm -r concord
+      - name: Run Makefile
+        run: |
+          echo "Building"
+          make

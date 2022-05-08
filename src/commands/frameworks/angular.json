@@ -1,0 +1,29 @@
+{
+  "title": "Angular",
+  "description": "Google's child.",
+  "footer": {
+    "text": "Discode",
+    "icon_url": "https://raw.githubusercontent.com/discode-devs/discode/master/images/botatar.png"
+  },
+  "thumbnail": {
+    "url": "https://raw.githubusercontent.com/discode-devs/discode/master/images/frameworks/angular.png"
+  },
+  "fields": [
+    {
+      "name": "What is it?",
+      "value": "Angular is a TypeScript-based open-source web application framework. It is used as the frontend of the MEAN stack."
+    },
+    {
+      "name": "Advantages",
+      "value": "- MVC Architecture\n- Modules\n- TypeScript\n- Components\n- Comprehensive"
+    },
+    {
+      "name": "Learn",
+      "value": "https://angular.io/tutorial\nhttps://www.w3schools.com/angular/\nhttps://www.tutorialspoint.com/learn-angular-from-scratch-2022-complete-beginner-guide-design-to-deploy/index.asp"
+    },
+    {
+      "name": "Sources",
+      "value": "https://angular.io\nhttps://en.wikipedia.org/wiki/Angular_(web_framework)\nhttps://www.simplilearn.com/tutorials/angular-tutorial/what-is-angular\nhttps://www.edureka.co/blog/advantages-and-disadvantages-of-angular/"
+    }
+  ]
+}

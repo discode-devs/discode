@@ -1,4 +1,5 @@
 # Discode [ ![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://opensource.org/licenses/MIT) [ ![Discord](https://discord.com/api/guilds/681981489663311945/embed.png)](https://discord.gg/CHaNsbC)
+* ARCHIVED. Depracated in favor of the kotlin rewrite. https://github.com/discode-devs/rewrite
 
 A discord bot made in C to document programming languages.
 
